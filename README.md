@@ -1,6 +1,6 @@
 # FinalShellDecodePass 加密解密
 
-`/Applications/FinalShell.app/Contents/Java/finalshell.jar#myssh.O0O0OO0OOOO0OO0000O0O0O0000O00OOO0OOOOO00000OO0O0O0OOO00OOO0O00O000OOOO0OO00000O0OO0OOO00O0000OOOOOO.class`
+`/Applications/FinalShell.app/Contents/Java/finalshell.jar!/myssh/O0O0OO0OOOO0OO0000O0O0O0000O00OOO0OOOOO00000OO0O0O0OOO00OOO0O00O000OOOO0OO00000O0OO0OOO00O0000OOOOOO.class`
 
 
 `password` 字段在 `~/Library/FinalShell/conn/xxxxxx/xxxxxx_connect_config.json`
